@@ -6,7 +6,7 @@ I am mostly interested in low level programming, but I don't think that's true, 
 #### My current work
 Currently I am working on a little game in the terminal. It's like space shooter games and is implemented with 'standard c++17' and 'ncurses'.
 
-When it reaches a good stable stage, I will push the repository here.
+When it reaches a good stable stage, I will push the repository here. I also created a [gist](https://gist.github.com/etzl/17612eb71654a7198e7a4be6c7d73f50) that cotains the menu code implemented in 'c', that roughly gives an idea of what I'm doing. 
 
 <!--
 **etzl/etzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
