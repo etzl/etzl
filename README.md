@@ -5,6 +5,11 @@ I am mostly interested in low level programming, but I don't think that's true, 
 
 So put it this way: I know the value of abstraction (high level) but I love to understand how it got there. That being said I tend to feed this passion with mathematics everyday so I'd still be able to work without being killed by my questions.
 
+#### My current work
+Currently I am working on a little game in the terminal. It's like space shooter games and is implemented with 'standard c++17' and 'ncurses'.
+
+When it reaches a good stable stage, I will push the repository here.
+
 <!--
 **etzl/etzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
