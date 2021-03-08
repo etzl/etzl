@@ -1,5 +1,3 @@
-### How you doing? :)
-
 #### Introduction
 I am mostly interested in low level programming, but I don't think that's true, I just don't like to use others "product" without question, or without having even an imagination of it. So put it this way: I know the value of abstraction (high level) but I love to understand how it got there. That being said I tend to feed this passion with mathematics everyday so I'd still be able to work without being killed by my questions.
 
