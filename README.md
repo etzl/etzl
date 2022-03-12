@@ -1,8 +1,22 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etzl&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+# Erfan 🙌
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzl&show_icons=true&theme=dracula&border_color=dc143c" />
+  </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=etzl&repo=among-stars&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
+  </a>
+</p>
+
+## Currently working on :shipit:
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzl&repo=among-stars&theme=calm&show_icons=true" />
+</a>
+
+## Languages
 
 <!--
 **etzl/etzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
