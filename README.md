@@ -1,10 +1,10 @@
-# Erfan 🙌
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzl&show_icons=true&theme=dracula&border_color=dc143c" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
   </a>
