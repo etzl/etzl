@@ -30,7 +30,7 @@ I think what I really want to pursue as a career is about connecting science and
 
 [Calithtenics](https://youtu.be/mvJHw64fxgQ)
 
-[Wrestling](/wrestling.mp4) - sometimes fighting can be fun :feelsgood:
+[Wrestling](https://www.instagram.com/p/CbAoH6ZAHaj/) - sometimes fighting can be fun :feelsgood:
 
 ## Currently working on :shipit:
 
@@ -45,4 +45,3 @@ erfanzm99@gmail.com
 erfanzamani3445@gmail.com (github)
 
 ## Languages
-
