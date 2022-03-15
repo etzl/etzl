@@ -45,3 +45,5 @@ erfanzm99@gmail.com
 erfanzamani3445@gmail.com (github)
 
 ## Languages
+
+[![c](https://img.shields.io/badge/-C-lightgrey?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
