@@ -26,10 +26,9 @@ I think what I really want to pursue as a career is about connecting science and
   </a>
 </p>
 
-### Sports
+### I do sports
 
-[Calithtenics](https://youtu.be/mvJHw64fxgQ)
-
+[Calithtenics](https://youtu.be/mvJHw64fxgQ)  
 [Wrestling](https://www.instagram.com/p/CbAoH6ZAHaj/) - sometimes fighting can be fun :feelsgood:
 
 ## Currently working on :shipit:
@@ -40,12 +39,15 @@ I think what I really want to pursue as a career is about connecting science and
 
 ## How to reach me
 
-You can emaile me at:  
-erfanzm99@gmail.com  
-erfanzamani3445@gmail.com (github)
+[![](https://img.shields.io/badge/gmail-erfanzm99%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzm99@gmail.com)  
+[![](https://img.shields.io/badge/gmail-erfanzamani3445%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzamani3445@gmail.com)
 
-## Languages
+## Languages and technologies
 
-[![c](https://img.shields.io/badge/-c-lightgrey?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![c++](https://img.shields.io/badge/-c++-blue?logo=cplusplus&style=for-the-badge)](https://www.stroustrup.com/)
-[![c#](https://img.shields.io/badge/-c#-brightgreen?logo=csharp&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![c](https://img.shields.io/badge/-c-lightgrey?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![c++](https://img.shields.io/badge/-c%2B%2B-blue?logo=cplusplus&style=for-the-badge)](https://www.stroustrup.com/)
+[![c#](https://img.shields.io/badge/-c%23-brightgreen?logo=csharp&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![bash](https://img.shields.io/badge/-bash-green?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript)
+
+[![unity](https://img.shields.io/badge/-unity-red?logo=unity&style=for-the-badge)](https://unity.com/)
