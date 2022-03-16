@@ -46,4 +46,6 @@ erfanzamani3445@gmail.com (github)
 
 ## Languages
 
-[![c](https://img.shields.io/badge/-C-lightgrey?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![c](https://img.shields.io/badge/-c-lightgrey?logo=c&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![c++](https://img.shields.io/badge/-c++-blue?logo=cplusplus&style=for-the-badge)](https://www.stroustrup.com/)
+[![c#](https://img.shields.io/badge/-c#-brightgreen?logo=csharp&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
