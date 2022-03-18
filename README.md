@@ -1,4 +1,4 @@
-# Hi I'm Erfan 😎
+<h1 align="center"> Hi I'm Erfan 😎 </h1>
 
 ## About me
 
