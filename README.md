@@ -16,12 +16,11 @@ I'm a self-taught programmer who started off working on games. Nowadays I just f
 
 I think what I really want to pursue as a career is about connecting science and technologies, like [WolfremAlpha](https://en.wikipedia.org/wiki/WolframAlpha)
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzl&show_icons=true&theme=dracula&border_color=dc143c" />
   <img algin="center" src="https://github-readme-streak-stats.herokuapp.com?user=etzl&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DC143C" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
 
 ### I do sports
 
