@@ -38,8 +38,9 @@ I think what I really want to pursue as a career is about connecting science and
 
 ## How to reach me
 
-[![](https://img.shields.io/badge/gmail-erfanzm99%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzm99@gmail.com)  
+[![](https://img.shields.io/badge/gmail-erfanzm99%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzm99@gmail.com)
 [![](https://img.shields.io/badge/gmail-erfanzamani3445%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzamani3445@gmail.com)
+[![](https://img.shields.io/badge/linkedin-erfan--zamani-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/erfan-zamani/)
 
 ## Languages and technologies
 
