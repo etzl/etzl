@@ -21,10 +21,6 @@ I think what I really want to pursue as a career is about connecting science and
   <img algin="center" src="https://github-readme-streak-stats.herokuapp.com?user=etzl&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DC143C" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
-</p>
-
 ### I do sports
 
 [Calithtenics](https://youtu.be/mvJHw64fxgQ)  
@@ -39,8 +35,9 @@ I think what I really want to pursue as a career is about connecting science and
 ## How to reach me
 
 [![](https://img.shields.io/badge/gmail-erfanzm99%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzm99@gmail.com)
+&emsp;&emsp;&emsp;&emsp;[![](https://img.shields.io/badge/linkedin-erfan--zamani-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/erfan-zamani/)  
 [![](https://img.shields.io/badge/gmail-erfanzamani3445%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzamani3445@gmail.com)
-[![](https://img.shields.io/badge/linkedin-erfan--zamani-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/erfan-zamani/)
+&emsp;&emsp;[![](https://img.shields.io/badge/stack_overflow-etzl-orange?style=social&logo=stackoverflow)](https://stackoverflow.com/users/9085151/etzl)
 
 ## Languages and technologies
 
@@ -51,3 +48,5 @@ I think what I really want to pursue as a career is about connecting science and
 [![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript)
 
 [![unity](https://img.shields.io/badge/-unity-red?logo=unity&style=for-the-badge)](https://unity.com/)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
