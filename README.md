@@ -45,8 +45,8 @@ I think what I really want to pursue as a career is about connecting science and
 [![c++](https://img.shields.io/badge/-c%2B%2B-blue?logo=cplusplus&style=for-the-badge)](https://www.stroustrup.com/)
 [![c#](https://img.shields.io/badge/-c%23-brightgreen?logo=csharp&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![bash](https://img.shields.io/badge/-bash-green?logo=gnubash&style=for-the-badge)](https://www.gnu.org/software/bash/)
-[![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript)
+[![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true&layout=compact" />
 
 [![unity](https://img.shields.io/badge/-unity-red?logo=unity&style=for-the-badge)](https://unity.com/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true" />
+
