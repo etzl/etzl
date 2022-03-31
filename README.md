@@ -48,5 +48,6 @@ I think what I really want to pursue as a career is about connecting science and
 [![javascript](https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge)](https://en.wikipedia.org/wiki/JavaScript) <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etzl&theme=dracula&show_icons=true&layout=compact" />
 
 [![unity](https://img.shields.io/badge/-unity-red?logo=unity&style=for-the-badge)](https://unity.com/)
+[![dotnet](https://img.shields.io/badge/-.Net-blue?logo=dotnet&style=for-the-badge)](https://dotnet.microsoft.com/)
 
 
