@@ -23,6 +23,7 @@ I think what I really want to pursue as a career is about connecting science and
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=etzl&show_icons=true&theme=dracula&border_color=dc143c" /> <br>
     <img algin="center" src="https://github-readme-streak-stats.herokuapp.com?user=etzl&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DC143C" />
   </p>
+
 </details>
 
 ### I do sports
