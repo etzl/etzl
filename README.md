@@ -36,9 +36,6 @@ I think what I really want to pursue as a career is about connecting science and
 <a href="https://github.com/etzl/among-stars">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzl&repo=among-stars&theme=calm&show_icons=true" />
 </a>
-<a href="https://github.com/electron/electron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=electron&repo=electron&theme=calm&show_icons=true" />
-</a>
 
 ## How to reach me
 
