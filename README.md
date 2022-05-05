@@ -31,12 +31,6 @@ I think what I really want to pursue as a career is about connecting science and
 [Calithtenics](https://youtu.be/mvJHw64fxgQ)  
 [Wrestling](https://www.instagram.com/p/CbAoH6ZAHaj/) - sometimes fighting can be fun :feelsgood:
 
-## Currently working on :shipit:
-
-<a href="https://github.com/etzl/among-stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etzl&repo=among-stars&theme=calm&show_icons=true" />
-</a>
-
 ## How to reach me
 
 [![](https://img.shields.io/badge/gmail-erfanzm99%40gmail.com-red?style=social&logo=gmail)](mailto:erfanzm99@gmail.com)
